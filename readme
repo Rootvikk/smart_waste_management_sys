@@ -1,4 +1,16 @@
-//README FILE
+/*
 
-// compile : javac -cp ".;lib\mysql-connector-j-9.4.0.jar" src\*.java 
-// run: java -cp ".;lib\mysql-connector-j-9.4.0.jar" src.Main   
+README FILE
+
+--Compile and Run CMDS--
+compile : javac -cp ".;lib\mysql-connector-j-9.4.0.jar" src\*.java 
+run: java -cp ".;lib\mysql-connector-j-9.4.0.jar" src.Main   
+
+
+--Login Creds--
+
+user: citizen pass: citizen123
+user: admin pass: admin123
+user: worker pass: worker123
+
+*/
